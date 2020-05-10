@@ -1,0 +1,131 @@
+﻿<!doctype html>
+<html>
+<head>
+<title> APOD: 2020 May 10 - The Porpoise Galaxy from Hubble 
+</title> 
+<!-- gsfc meta tags -->
+<meta name="orgcode" content="661">
+<meta name="rno" content="phillip.a.newman">
+<meta name="content-owner" content="Jerry.T.Bonnell.1">
+<meta name="webmaster" content="Stephen.F.Fantasia.1">
+<meta name="description" content="A different astronomy and space science
+related image is featured each day, along with a brief explanation.">
+<!-- -->
+<meta name="keywords" content="spiral galaxy, colliding galaxies, Hubble">
+<!-- -->
+<script id="_fed_an_ua_tag"
+src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA">
+</script>
+
+</head>
+
+<body BGCOLOR="#F4F4FF" text="#000000" link="#0000FF" vlink="#7F0F9F"
+alink="#FF0000">
+
+<center>
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="archivepix.html">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2020 May 10 
+<br> 
+ <a href="image/2005/PorpoiseGalaxy_HubbleFraile_1300.jpg">
+<IMG SRC="image/2005/PorpoiseGalaxy_HubbleFraile_960.jpg"
+alt="See Explanation.  Clicking on the picture will download
+the highest resolution version available." style="max-width:100%"></a>
+</center>
+
+<center>
+<b> The Porpoise Galaxy from Hubble </b> <br> 
+<b> Image Credit: </b> 
+<a href="https://www.nasa.gov">NASA</a>, 
+<a href="https://www.esa.int/">ESA</a>, 
+<a href="https://www.nasa.gov/mission_pages/hubble/story/index.html"
+>Hubble</a>, 
+<a href="https://hla.stsci.edu/">HLA</a>; 
+<b> Reprocessing & Copyright: </b> 
+<a href="https://www.flickr.com/photos/113243238@N08/">Raul Villaverde</a>
+</center> <p> 
+
+<b> Explanation: </b> 
+What's happening to this spiral galaxy?
+
+Just a few hundred million years ago, 
+NGC 2936, the upper of the two large 
+<a href="https://www.flickr.com/photos/113243238@N08/31761249883/"
+>galaxies shown</a>, was likely a 
+<a href="ap130416.html">normal spiral galaxy</a> -- 
+spinning, creating stars -- and minding its own business.
+
+But then it got too close to the 
+<a href="ap120914.html">massive elliptical galaxy</a> 
+NGC 2937 below and took a dive.
+
+Dubbed the 
+<a href="http://en.wikipedia.org/wiki/Porpoise">Porpoise</a> Galaxy for its iconic shape, NGC 2936 is not only being deflected but also being distorted by the 
+<a href="ap090426.html">close gravitational interaction</a>.
+
+A burst of young blue stars forms the nose of the porpoise toward the right of the upper galaxy, while the center of the spiral appears as an eye. 
+
+Alternatively, the galaxy pair, together known as 
+<a href="http://www.spacetelescope.org/videos/heic1311a/"
+>Arp 142</a>, look to some like a 
+<a href="https://media.mnn.com/assets/images/2011/06/dads_intro.jpg.560x0_q80_crop-smart.jpg"
+>penguin</a> protecting an egg.
+
+Either way, intricate dark dust lanes and bright blue star streams trail the troubled galaxy to the lower right.
+
+The <a href="https://www.flickr.com/photos/113243238@N08/31761249883/"
+>featured re-processed image</a> showing 
+<a href="https://ui.adsabs.harvard.edu/abs/2016AAS...22713511R/abstract"
+>Arp 142</a> in unprecedented detail was taken by the <a href=
+"http://hubblesite.org/the_telescope/hubble_essentials/quick_facts.php">Hubble Space Telescope</a> last year.
+
+<a href="https://media.stsci.edu/image/3195/gallery/19-interacting-galaxies"
+>Arp 142</a> lies about 300 million light years away toward the constellation, 
+coincidently, of the Water Snake 
+(<a href="http://en.wikipedia.org/wiki/Hydra_(constellation)">Hydra</a>).
+
+In a billion years or so the 
+<a href="ap120604.html">two galaxies will likely merge</a> into one larger galaxy.
+
+<p> <center> 
+<b> Tomorrow's picture: </b><a href="ap200511.html">behind betelgeuse</a>
+
+<p> <hr>
+<a href="ap200509.html">&lt;</a>
+| <a href="archivepix.html">Archive</a>
+| <a href="lib/apsubmit2015.html">Submissions</a> 
+| <a href="lib/aptree.html">Index</a>
+| <a href="https://antwrp.gsfc.nasa.gov/cgi-bin/apod/apod_search">Search</a>
+| <a href="calendar/allyears.html">Calendar</a>
+| <a href="/apod.rss">RSS</a>
+| <a href="lib/edlinks.html">Education</a>
+| <a href="lib/about_apod.html">About APOD</a>
+| <a href=
+"http://asterisk.apod.com/discuss_apod.php?date=200510">Discuss</a>
+| <a href="ap200511.html">&gt;</a>
+
+<hr><p>
+<b> Authors & editors: </b>
+<a href="http://www.phy.mtu.edu/faculty/Nemiroff.html">Robert Nemiroff</a>
+(<a href="http://www.phy.mtu.edu/">MTU</a>) &
+<a href="https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html"
+>Jerry Bonnell</a> (<a href="http://www.astro.umd.edu/">UMCP</a>)<br>
+<b>NASA Official: </b> Phillip Newman
+<a href="lib/about_apod.html#srapply">Specific rights apply</a>.<br>
+<a href="https://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Web
+Privacy Policy and Important Notices</a><br>
+<b>A service of:</b>
+<a href="https://astrophysics.gsfc.nasa.gov/">ASD</a> at
+<a href="https://www.nasa.gov/">NASA</a> /
+<a href="https://www.nasa.gov/centers/goddard/">GSFC</a>
+<br><b>&</b> <a href="http://www.mtu.edu/">Michigan Tech. U.</a><br>
+</center>
+</body>
+</html>
+
