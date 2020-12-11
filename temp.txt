@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+<head>
+<title> APOD: 2020 December 11 - Messier Craters in Stereo
+</title> 
+<!-- gsfc meta tags -->
+<meta name="orgcode" content="661">
+<meta name="rno" content="phillip.a.newman">
+<meta name="content-owner" content="Jerry.T.Bonnell.1">
+<meta name="webmaster" content="Stephen.F.Fantasia.1">
+<meta name="description" content="A different astronomy and space science
+related image is featured each day, along with a brief explanation.">
+<!-- -->
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta name=keywords content="messier, moon, crater, impact, stereo">
+<!-- -->
+<script id="_fed_an_ua_tag"
+src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA">
+</script>
+
+
+</head>
+
+<body BGCOLOR="#F4F4FF" text="#000000" link="#0000FF" vlink="#7F0F9F"
+alink="#FF0000">
+
+<center>
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="archivepix.html">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2020 December 11
+<br>
+<a href="image/2012/MessierCrater3d_vantuyne.jpg">
+<IMG SRC="image/2012/MessierCrater3d_vantuyne1024c.jpg"
+alt="See Explanation.  Clicking on the picture will download
+the highest resolution version available." style="max-width:100%"></a>
+
+</center>
+
+<center>
+<b> Messier Craters in Stereo </b> <br>
+
+<b>Image Credit: </b>
+
+<a href="http://nssdc.gsfc.nasa.gov/planetary/lunar/apollo11info.html">Apollo 11</a>, 
+<a href="http://www.nasa.gov/">NASA</a>;
+
+Stereo Image Copyright
+<a href="https://www.hq.nasa.gov/alsj/ApAnPaVa.html">Patrick Vantuyne</a>
+
+</center> <p> 
+
+<b> Explanation: </b> 
+
+Many bright nebulae and star clusters in planet Earth's sky
+are associated with the name of
+<a href="https://www.nasa.gov/content/explore-the-night-sky-hubble-s-messier-catalog-bio">astronomer Charles Messier</a>
+from his famous 18th century catalog.
+
+His name is also given to these two large and remarkable craters
+on the Moon.
+
+<a href="http://lroc.sese.asu.edu/posts/383">Standouts in the dark</a>,
+smooth lunar Sea of Fertility or Mare
+Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8
+and 16 by 11 kilometers respectively.
+
+Their elongated shapes are explained by the
+extremely shallow-angle trajectory followed by
+an impactor, moving left to right, that gouged out the craters.
+
+The shallow impact also resulted in two
+<a href="http://lunarnetworks.blogspot.com/2012/04/lroc-rays-of-messier.html">bright rays of material</a>
+extending along the surface to the right, beyond the picture.
+
+Intended to be viewed with
+<a href="http://photojournal.jpl.nasa.gov/Help/VendorList.html#Glasses">red/blue glasses</a> (red for the left eye),
+this striking stereo picture of the crater pair was recently created
+from high resolution scans of two images
+(<a href="http://www.lpi.usra.edu/resources/apollo/frame/?AS11-42-6304">AS11-42-6304</a>,
+<a href="http://www.lpi.usra.edu/resources/apollo/frame/?AS11-42-6305">AS11-42-6305</a>)
+taken during the Apollo 11 mission to the Moon.
+
+<p> <center>
+
+<b> Tomorrow's picture: </b><a href="ap201212.html">wandering toward a Great Conjunction</a>
+
+<p> <hr>
+<a href="ap201210.html">&lt;</a>
+| <a href="archivepix.html">Archive</a>
+| <a href="lib/apsubmit2015.html">Submissions</a> 
+| <a href="lib/aptree.html">Index</a>
+| <a href="https://antwrp.gsfc.nasa.gov/cgi-bin/apod/apod_search">Search</a>
+| <a href="calendar/allyears.html">Calendar</a>
+| <a href="/apod.rss">RSS</a>
+| <a href="lib/edlinks.html">Education</a>
+| <a href="lib/about_apod.html">About APOD</a>
+| <a href=
+"http://asterisk.apod.com/discuss_apod.php?date=201211">Discuss</a>
+| <a href="ap201212.html">&gt;</a>
+
+<hr><p>
+<b> Authors & editors: </b>
+<a href="http://www.phy.mtu.edu/faculty/Nemiroff.html">Robert Nemiroff</a>
+(<a href="http://www.phy.mtu.edu/">MTU</a>) &
+<a href="https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html"
+>Jerry Bonnell</a> (<a href="http://www.astro.umd.edu/">UMCP</a>)<br>
+<b>NASA Official: </b> Phillip Newman
+<a href="lib/about_apod.html#srapply">Specific rights apply</a>.<br>
+<a href="https://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Web
+Privacy Policy and Important Notices</a><br>
+<b>A service of:</b>
+<a href="https://astrophysics.gsfc.nasa.gov/">ASD</a> at
+<a href="https://www.nasa.gov/">NASA</a> /
+<a href="https://www.nasa.gov/centers/goddard/">GSFC</a>
+<br><b>&</b> <a href="http://www.mtu.edu/">Michigan Tech. U.</a><br>
+</center>
+</body>
+</html>
