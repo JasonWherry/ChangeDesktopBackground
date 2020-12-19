@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title> APOD: 2020 December 11 - Messier Craters in Stereo
+<title> APOD: 2020 December 19 - Conjunction after Sunset
 </title> 
 <!-- gsfc meta tags -->
 <meta name="orgcode" content="661">
@@ -12,7 +12,7 @@
 related image is featured each day, along with a brief explanation.">
 <!-- -->
 <meta name=viewport content="width=device-width, initial-scale=1">
-<meta name=keywords content="messier, moon, crater, impact, stereo">
+<meta name=keywords content="moon, jupiter, saturn, conjunction">
 <!-- -->
 <script id="_fed_an_ua_tag"
 src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA">
@@ -33,65 +33,59 @@ Each day a different image or photograph of our fascinating universe is
 featured, along with a brief explanation written by a professional astronomer.
 <p>
 
-2020 December 11
+2020 December 19
 <br>
-<a href="image/2012/MessierCrater3d_vantuyne.jpg">
-<IMG SRC="image/2012/MessierCrater3d_vantuyne1024c.jpg"
+<a href="image/2012/ConjunctionPanorama1-S2.jpg">
+<IMG SRC="image/2012/ConjunctionPanorama1-S2_1024.jpg"
 alt="See Explanation.  Clicking on the picture will download
 the highest resolution version available." style="max-width:100%"></a>
 
 </center>
 
 <center>
-<b> Messier Craters in Stereo </b> <br>
+<b> Conjunction after Sunset </b> <br>
 
-<b>Image Credit: </b>
+<b>Image Credit &
+<a href="lib/about_apod.html#srapply">Copyright</a>:</b>
 
-<a href="http://nssdc.gsfc.nasa.gov/planetary/lunar/apollo11info.html">Apollo 11</a>, 
-<a href="http://www.nasa.gov/">NASA</a>;
-
-Stereo Image Copyright
-<a href="https://www.hq.nasa.gov/alsj/ApAnPaVa.html">Patrick Vantuyne</a>
+<a href="https://www.instagram.com/ali.reza.vafa/?hl=en">Alireza Vafa</a>
 
 </center> <p> 
 
 <b> Explanation: </b> 
 
-Many bright nebulae and star clusters in planet Earth's sky
-are associated with the name of
-<a href="https://www.nasa.gov/content/explore-the-night-sky-hubble-s-messier-catalog-bio">astronomer Charles Messier</a>
-from his famous 18th century catalog.
+How close will Jupiter and Saturn be at their
+<a href="https://skyandtelescope.org/astronomy-news/jupiter-and-saturn-embrace-in-solstice-conjunction/">Great Conjunction</a>?
 
-His name is also given to these two large and remarkable craters
-on the Moon.
+Consider this beautiful triple conjunction of Moon, Jupiter and
+Saturn captured through clouds in the wintry twilight.
 
-<a href="http://lroc.sese.asu.edu/posts/383">Standouts in the dark</a>,
-smooth lunar Sea of Fertility or Mare
-Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8
-and 16 by 11 kilometers respectively.
+The telephoto view
+looks toward the western horizon
+and the Alborz Mountains in Iran after sunset on December 17.
 
-Their elongated shapes are explained by the
-extremely shallow-angle trajectory followed by
-an impactor, moving left to right, that gouged out the craters.
+<a href="https://solarsystem.nasa.gov/news/1615/how-to-photograph-the-conjunction-of-saturn-and-jupiter/">The celestial gathering</a>
+makes it easy to see Jupiter and fainter Saturn are separated on that date by
+roughly the diameter of the waxing crescent Moon.
 
-The shallow impact also resulted in two
-<a href="http://lunarnetworks.blogspot.com/2012/04/lroc-rays-of-messier.html">bright rays of material</a>
-extending along the surface to the right, beyond the picture.
+On the day of their
+Great Conjunction, solstice day December 21,
+Jupiter and Saturn may seem to nearly merge though.
 
-Intended to be viewed with
-<a href="http://photojournal.jpl.nasa.gov/Help/VendorList.html#Glasses">red/blue glasses</a> (red for the left eye),
-this striking stereo picture of the crater pair was recently created
-from high resolution scans of two images
-(<a href="http://www.lpi.usra.edu/resources/apollo/frame/?AS11-42-6304">AS11-42-6304</a>,
-<a href="http://www.lpi.usra.edu/resources/apollo/frame/?AS11-42-6305">AS11-42-6305</a>)
-taken during the Apollo 11 mission to the Moon.
+<a href="https://blogs.nasa.gov/Watch_the_Skies/2020/12/17/jupiter-saturn-great-conjunction-watch-best-view-since-middle-ages/">In their closest conjunction</a>
+in 400 years they will be
+separated on the sky by only about 1/5 the apparent diameter of the Moon.
+
+By then the two largest worlds in the Solar System and
+their moons will be sharing the same field of view in
+<a href="https://www.virtualtelescope.eu/2020/10/01/the-2020-jupiter-saturn-great-conjunction-online-observation-21-dec-2020/">telescopes around planet Earth</a>.
 
 <p> <center>
 
-<b> Tomorrow's picture: </b><a href="ap201212.html">wandering toward a Great Conjunction</a>
+<b> Tomorrow's picture: </b><a href="ap201220.html">pillars and jets</a>
 
 <p> <hr>
-<a href="ap201210.html">&lt;</a>
+<a href="ap201218.html">&lt;</a>
 | <a href="archivepix.html">Archive</a>
 | <a href="lib/apsubmit2015.html">Submissions</a> 
 | <a href="lib/aptree.html">Index</a>
@@ -101,8 +95,8 @@ taken during the Apollo 11 mission to the Moon.
 | <a href="lib/edlinks.html">Education</a>
 | <a href="lib/about_apod.html">About APOD</a>
 | <a href=
-"http://asterisk.apod.com/discuss_apod.php?date=201211">Discuss</a>
-| <a href="ap201212.html">&gt;</a>
+"http://asterisk.apod.com/discuss_apod.php?date=201219">Discuss</a>
+| <a href="ap201220.html">&gt;</a>
 
 <hr><p>
 <b> Authors & editors: </b>
